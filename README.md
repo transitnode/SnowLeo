@@ -1,10 +1,10 @@
-# SnowLeo
+# ❄︎ SnowLeo ❄︎
 
 A self-hosted OSINT platform for collecting, analyzing, and organizing publicly available intelligence.
 
 ## Features (Planned)
 
-### Core Intelligence Modules
+### ➜ Core Intelligence Modules
 
 #### Domain Intelligence
 - WHOIS lookup (registrar, creation/expiry, name servers)
@@ -29,7 +29,7 @@ A self-hosted OSINT platform for collecting, analyzing, and organizing publicly 
 - Expired/renewed certificate tracking
 - Certificate chain analysis
 
-### Discovery & Enrichment
+### ➜ Discovery & Enrichment
 
 #### Subdomain Discovery
 - Passive CT-based enumeration
@@ -47,7 +47,7 @@ A self-hosted OSINT platform for collecting, analyzing, and organizing publicly 
 - Investigation timeline tracking
 - Graph-based visualization (future)
 
-### Media & Metadata Analysis
+### ➜ Media & Metadata Analysis
 
 #### Reverse Image Search
 - Multi-source lookup (search engine integrations)
@@ -64,7 +64,7 @@ A self-hosted OSINT platform for collecting, analyzing, and organizing publicly 
 - Strictly non-identifying grouping of similar images
 - No person identification or scraping of individuals
 
-### Reporting & Workflow
+### ➜ Reporting & Workflow
 
 #### Search History
 - Query tracking per session
@@ -82,19 +82,19 @@ A self-hosted OSINT platform for collecting, analyzing, and organizing publicly 
 - Saved entities and findings
 - Timeline and graph-based investigation view
 
-### Security & Access (Planned)
+### ➜ Security & Access (Planned)
 - Authentication system (API keys / user accounts)
 - Rate limiting per user
 - Request logging and usage tracking
 
-### Advanced Intelligence (Future)
+### ➜ Advanced Intelligence (Future)
 - Passive OSINT data collection layer
 - Historical dataset tracking (DNS/WHOIS changes over time)
 - Intelligence graph database backend
 - Automated enrichment pipelines
 - Optional AI-generated summaries of findings
 
-## Tech Stack
+## ﹗Tech Stack﹗
 
 ### Frontend: React
 - Dashboard for queries, results, and investigation workflows
