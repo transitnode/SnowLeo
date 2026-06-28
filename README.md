@@ -11,6 +11,10 @@ A self-hosted OSINT platform for collecting, analyzing, and organizing publicly 
 - Search History
 - Authentication
 - Report Exporting
+- Reverse Image Search
+- Breach and Leak Checker
+- Exif Metadata Extractor
+- Footprint Analyzer
 
 ## Tech Stack
 
@@ -25,4 +29,4 @@ A self-hosted OSINT platform for collecting, analyzing, and organizing publicly 
 
 ## Status
 
-🚧 Active development
+🚧 IN ACTIVE DEVELOPMENT
